@@ -4,7 +4,7 @@ export default function Hero({ query, setQuery }) {
     <section id="home" className="hero">
       <div className="hero-overlay" />
       <img
-        src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1400&q=80"
+        src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200&q=80"
         alt="Students"
         className="hero-bg"
       />
